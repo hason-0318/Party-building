@@ -1,0 +1,1 @@
+import{_ as o}from"./PageIntro.vue_vue_type_script_setup_true_lang-rQg4ao2a.js";import{d as t,c as a,a as e,o as r,R as s}from"./index-8vAvLIXU.js";const l=t({__name:"RoutesView",setup(c){return(n,_)=>(r(),a("div",null,[e(o,{eyebrow:"研学线路",title:"七条实景线路，读懂深圳",lead:"从红色旧址到改革开放地标，再到科创阵地，按主题、区域和线路编号选择适合的研学路径。"}),e(s)]))}});export{l as default};
